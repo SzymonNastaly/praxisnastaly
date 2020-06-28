@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://szymonnastaly.github.io/praxisnastaly/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://szymonnastaly.github.io/praxisnastaly/</loc>
+</url>
+<url>
+<loc>https://szymonnastaly.github.io/praxisnastaly/homepage.html</loc>
+<lastmod>2020-06-28T22:36:33+02:00</lastmod>
+</url>
+<url>
+<loc>https://szymonnastaly.github.io/praxisnastaly/impressum.html</loc>
+<lastmod>2020-06-27T01:42:50+02:00</lastmod>
+</url>
+<url>
+<loc>https://szymonnastaly.github.io/praxisnastaly/kontakt.html</loc>
+<lastmod>2020-06-28T23:26:44+02:00</lastmod>
+<image:image>
+<image:loc>https://szymonnastaly.github.io/praxisnastaly/media/posts/4/Screen-Shot-2020-06-28-at-11.23.37-PM-2.png</image:loc>
+<image:title><![CDATA[Karte welche Lage der Praxis zeigt]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://szymonnastaly.github.io/praxisnastaly/leistungen.html</loc>
+<lastmod>2020-06-28T23:15:31+02:00</lastmod>
+</url>
+</urlset>

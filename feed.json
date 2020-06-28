@@ -1,0 +1,67 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "praxisnastaly",
+    "description": "",
+    "home_page_url": "https://szymonnastaly.github.io/praxisnastaly",
+    "feed_url": "https://szymonnastaly.github.io/praxisnastaly/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Szymon Nastaly"
+    },
+    "items": [
+        {
+            "id": "https://szymonnastaly.github.io/praxisnastaly/kontakt.html",
+            "url": "https://szymonnastaly.github.io/praxisnastaly/kontakt.html",
+            "title": "Kontakt",
+            "summary": "AnfahrtAdresse Goldberger Straße 70A 18273 Güstrow Kontakt Tel.: 03843.332937 Fax.: 03843.331966 Öffnungszeiten Mo: 07:30 - 13:30 Di: 07:30 - 12:00 und 14:00 - 17:30 Mi: 07:30 - 12:00 Do: 07:30 - 12:00 und 14:00 - 17:30 Fr: 07:30 - 12:00 und nach Vereinbarung",
+            "content_html": "<h2>Anfahrt</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://szymonnastaly.github.io/praxisnastaly/media/posts/4/Screen-Shot-2020-06-28-at-11.23.37-PM-2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-xs.png 300w ,https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-sm.png 480w ,https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-md.png 768w ,https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-lg.png 1024w ,https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-xl.png 1360w ,https://szymonnastaly.github.io/praxisnastaly/media/posts/4/responsive/Screen-Shot-2020-06-28-at-11.23.37-PM-2-2xl.png 1600w\"  alt=\"Karte welche Lage der Praxis zeigt\" width=\"400\" height=\"271\"></figure>\n<p><strong>Adresse</strong><br>Goldberger Straße 70A<br>18273 Güstrow<br><br><strong>Kontakt</strong><br>Tel.: 03843.332937<br>Fax.: 03843.331966</p>\n<p><strong>Öffnungszeiten</strong><br>Mo: 07:30 - 13:30<br>Di: 07:30 - 12:00 und 14:00 - 17:30<br>Mi: 07:30 - 12:00<br>Do: 07:30 - 12:00 und 14:00 - 17:30<br>Fr: 07:30 - 12:00<br>und nach Vereinbarung</p>",
+            "author": {
+                "name": "Szymon Nastaly"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-29T00:06:49+02:00",
+            "date_modified": "2020-06-29T00:06:49+02:00"
+        },
+        {
+            "id": "https://szymonnastaly.github.io/praxisnastaly/leistungen.html",
+            "url": "https://szymonnastaly.github.io/praxisnastaly/leistungen.html",
+            "title": "Leistungen",
+            "summary": "Bei uns werden Sie rundum versorgtWir bieten umfassende allgemeinmedizinische Behandlungsmöglichkeiten, unter anderem: - Labordiagnostik - Ruhe-EKG - Gesundheits-Check-Up (ab 35, alle 3 Jahre) - Impfberatung und Durchführung der Impfungen - Beratung zu Vorsorgeuntersuchungen - Rehabilitationsanträge - Geriatrisches Basisassesment zur Klärung von altersbedingten Erkrankungen - Hausbesuche&hellip;",
+            "content_html": "<h2>Bei uns werden Sie rundum versorgt</h2>\n<p><em>Wir bieten umfassende allgemeinmedizinische Behandlungsmöglichkeiten, unter anderem:</em></p>\n<p>- Labordiagnostik<br>- Ruhe-EKG<br>- Gesundheits-Check-Up (ab 35, alle 3 Jahre)<br>- Impfberatung und Durchführung der Impfungen<br>- Beratung zu Vorsorgeuntersuchungen<br>- Rehabilitationsanträge<br>- Geriatrisches Basisassesment zur Klärung von altersbedingten Erkrankungen<br>- Hausbesuche bei medizinischer Notwendigkeit</p>\n<p><em>Neben der Allgemeinmedizinischen Versorgung, können Sie bei uns ebenfalls zusätzliche Leistungen in Anspruch nehmen:</em></p>\n<p>Beratung &amp; Begleitung bei chronischen Krankheiten:<br><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- DMP Asthmabronchiale<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- DMP COPD<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- DMP - Diabetes Typ 2<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- DMP - Koronare Herzkrankheiten<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- Langzeit-EKG<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- Langzeit-Blutdruckmessung<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- Spirometrie (Lungenfunktionsprüfung)<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- MRSA <br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- Laborkontrolle innerhalb der Praxis bei Falitrom-Patienten<br></span><span style=\"font-family: Arial, Verdana, Arial; font-size: 16px; text-indent: -5.599999904632568px;\">- Psychosomatische Grundversorgung (Differntialdiagnostische Klärung und Intervention psychosomatischer Erkrankungen)</span></p>",
+            "author": {
+                "name": "Szymon Nastaly"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-29T00:06:49+02:00",
+            "date_modified": "2020-06-29T00:06:49+02:00"
+        },
+        {
+            "id": "https://szymonnastaly.github.io/praxisnastaly/impressum.html",
+            "url": "https://szymonnastaly.github.io/praxisnastaly/impressum.html",
+            "title": "Impressum",
+            "author": {
+                "name": "Szymon Nastaly"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-29T00:06:49+02:00",
+            "date_modified": "2020-06-29T00:06:49+02:00"
+        },
+        {
+            "id": "https://szymonnastaly.github.io/praxisnastaly/homepage.html",
+            "url": "https://szymonnastaly.github.io/praxisnastaly/homepage.html",
+            "title": "Willkommen! ",
+            "summary": " Das Ziel Ihre Gesundheit zu erhalten und wiederherzustellen treibt uns jeden Tag an. Als internistisch geführte Hausarztpraxis gehen wir dafür auf Sie ein, um eine reibungslose Behandlung sicherzustellen. Auf unserer Website können Sie sich über unsere Leistungen informieren. Wir freuen uns auf Sie! Öffnungszeiten: Mo:&hellip;",
+            "content_html": "<h2> </h2>\n<table style=\"border-collapse: collapse; width: 100%; height: 98px; border-color: #ffffff; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 72.8654%; height: 49px;\">\n<p>Das Ziel Ihre Gesundheit zu erhalten und wiederherzustellen treibt uns jeden Tag an.</p>\n<p>Als internistisch geführte Hausarztpraxis gehen wir dafür auf Sie ein, um eine reibungslose Behandlung sicherzustellen.</p>\n<p>Auf unserer Website können Sie sich über unsere Leistungen informieren. Wir freuen uns auf Sie! </p>\n</td>\n<td style=\"width: 27.1346%; height: 49px;\">\n<p><strong>Öffnungszeiten:</strong></p>\n<p><strong>Mo</strong>: 07:30 - 13:30<br><strong>Di</strong>: 07:30 - 12:00 und 14:00 - 17:30<br><strong>Mi</strong>: 07:30 - 12:00<br><strong>Do</strong>: 07:30 - 12:00 und 14:00 - 17:30<br><strong>Fr</strong>: 07:30 - 12:00</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Notdienst</strong></p>\n<p>Außerhalb unserer üblichen Sprechzeiten können Sie vom Bereitschaftsdienst der Kassenärztlichen Vereinigungen medizinisch behandelt werden - in akuten jedoch nicht lebensbedrohlichen Situationen.</p>\n<p>Montag bis Freitag ab 19 Uhr, aber auch Feiertags. Unter folgender Nummer:</p>\n<p class=\"align-center\"><em><strong>116117</strong></em></p>",
+            "author": {
+                "name": "Szymon Nastaly"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-29T00:06:49+02:00",
+            "date_modified": "2020-06-29T00:06:49+02:00"
+        }
+    ]
+}
